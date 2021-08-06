@@ -1,9 +1,6 @@
 .green{
     color: #008B8B;
 }
-body {
-    background: linear-gradient(to top left, turquoise, purple);
-}
 .keyboard {
     position: fixed;
     left: 0;
