@@ -1,10 +1,16 @@
+.green{
+    color: #008B8B;
+}
+body {
+    background: linear-gradient(to top left, turquoise, purple);
+}
 .keyboard {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     padding: 5px 0;
-    background: #004134;
+    background: linear-gradient(to bottom right, black, darkgray);
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
     user-select: none;
     transition: bottom 0.4s;
@@ -26,7 +32,7 @@
     border-radius: 4px;
     border: none;
     background: rgba(255, 255, 255, 0.2);
-    color: #ffffff;
+    color: lime;
     font-size: 1.05rem;
     outline: none;
     cursor: pointer;
