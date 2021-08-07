@@ -1,5 +1,5 @@
 # XenonKeyboard
-![GitHub license](https://img.shields.io/badge/license-MIT-green)<br>
+![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey)<br>
 
 Xenon keyboard can make your life easy.
 
