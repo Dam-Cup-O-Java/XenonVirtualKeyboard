@@ -1,5 +1,5 @@
 # XenonKeyboard
-![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=xing&logoColor=lime&labelColor=black) [![Deploy with Vercel](https://img.shields.io/badge/-Deploy-mediumblue?style=for-the-badge&logo=vercel&logoColor=cyan&labelColor=black)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLord-Xenon%2FKeyboardIntegration)
+![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=xing&logoColor=lime&labelColor=black) [![Deploy with Vercel](https://img.shields.io/badge/-Clone-blue?style=for-the-badge&logo=github&logoColor=blue&labelColor=black)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLord-Xenon%2FKeyboardIntegration)
 
 Xenon keyboard can make your life easy.
 
