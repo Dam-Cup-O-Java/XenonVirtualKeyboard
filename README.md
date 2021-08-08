@@ -6,7 +6,7 @@ Xenon keyboard can make your life easy.
 ## Adding Script and stylesheet
 Add script and the stylesheets below in `<head></head>` of your website for the keyboard to work
 
-```javascript
+```html
   <script defer src="https://keyboard-integration.vercel.app/keyboard/Keyboard.js"></script>
   <link rel="stylesheet" href="https://keyboard-integration.vercel.app/keyboard/Keyboard.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
