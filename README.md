@@ -13,13 +13,11 @@ Add script and the stylesheets below in `<head></head>` of your website for the 
 ```
 
 ## Integration
-Add ```html 
-class="use-keyboard-input"```
-in the textarea for which you want the virtual keyboard
+Add ```html class="use-keyboard-input"```in the textarea for which you want the virtual keyboard
 
-`
+```html
 <textarea class="use-keyboard-input"></textarea>
-`
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
