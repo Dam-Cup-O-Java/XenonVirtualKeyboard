@@ -4,7 +4,7 @@
 Xenon keyboard can make your life easy, mainly can be used with touchscreen desktops and PCs.
 
 ## Adding Script and stylesheet
-Add script and the stylesheets below in `<head></head>` of your website for the keyboard to work
+Add script and the stylesheets below in `<head></head>` of your html code for the keyboard to work
 
 ```html
   <script defer src="https://keyboard-integration.vercel.app/keyboard/Keyboard.js"></script>
