@@ -26,6 +26,6 @@ Like this:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ```markdown
-# Note:
+`Note:
 If you want any other gradient or solid color open up an issue and we can discuss there
 ```
