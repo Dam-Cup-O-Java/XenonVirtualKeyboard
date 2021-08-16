@@ -7,7 +7,7 @@
     bottom: 0;
     width: 100%;
     padding: 5px 0;
-    background: linear-gradient(to bottom right, #1E90FF, #FF69B4);
+    background: linear-gradient(to bottom right, #d494ff, #94b6ff);
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
     user-select: none;
     transition: bottom 0.4s;
