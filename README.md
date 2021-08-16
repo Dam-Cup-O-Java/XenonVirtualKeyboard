@@ -14,7 +14,7 @@ Add script and the stylesheets below in `<head></head>` of your html code for th
 
 ## Integration
 Add in the textarea for which you want the virtual keyboard.
-```html
+```css
 class="use-keyboard-input"
 ```
 Like this:
