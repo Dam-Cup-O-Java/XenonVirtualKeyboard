@@ -1,5 +1,5 @@
 # XenonKeyboard
-[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://lord-xenon.thedev.id/LICENSE.txt) [![Deploy with Vercel](https://img.shields.io/badge/-Clone-blue?style=for-the-badge&logo=vercel&logo-&logoColor=blue&labelColor=black)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLord-Xenon%2FKeyboardIntegration) [![Download](https://img.shields.io/badge/Click%20to-DOWNLOAD%20REPOSITORY-black?style=for-the-badge&logo=github&labelColor=black&logoColor=lime)](https://github.com/Lord-Xenon/KeyboardIntegration/archive/refs/heads/main.zip)
+[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://xenon-virtual-keyboard.vercel.app/LICENSE.txt) [![Deploy with Vercel](https://img.shields.io/badge/-Clone-blue?style=for-the-badge&logo=vercel&logo-&logoColor=blue&labelColor=black)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLord-Xenon%2FKeyboardIntegration) [![Download](https://img.shields.io/badge/Click%20to-DOWNLOAD%20REPOSITORY-black?style=for-the-badge&logo=github&labelColor=black&logoColor=lime)](https://github.com/Lord-Xenon/KeyboardIntegration/archive/refs/heads/main.zip)
 
 Xenon keyboard can make your life easy, mainly can be used with touchscreen desktops and PCs.
 
@@ -30,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 If you want any other gradient or solid color open up an issue and we can discuss there
 ```
 ## 📝 License
-[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://lord-xenon.thedev.id/LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://xenon-virtual-keyboard.vercel.app/LICENSE.txt)
