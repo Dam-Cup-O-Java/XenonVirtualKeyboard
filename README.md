@@ -29,3 +29,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 #Note:
 If you want any other gradient or solid color open up an issue and we can discuss there
 ```
+## 📝 License
+[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://lord-xenon.thedev.id/LICENSE.txt)
