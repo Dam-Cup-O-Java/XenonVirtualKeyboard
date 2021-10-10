@@ -7,9 +7,9 @@ Xenon keyboard can make your life easy, mainly can be used with touchscreen desk
 Add script and the stylesheets below in `<head></head>` of your html code for the keyboard to work
 
 ```html
-  <script defer src="https://keyboard-integration.vercel.app/keyboard/Keyboard.js"></script>
-  <link rel="stylesheet" href="https://keyboard-integration.vercel.app/keyboard/Keyboard.css">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://lord-xenon.live/keyboard/Keyboard.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://lord-xenon.live/keyboard/Keyboard.js"></script>
 ```
 
 ## Integration
